@@ -1,0 +1,44 @@
+<!doctype html>
+<html>
+<head>
+       <style>
+       table,td,tr,th
+	   {
+       border:1px solid black;
+       border-collapse:collapse;
+       }
+</style>
+</head>
+<body>
+<tr>
+<td><b>Assignment 7</b></td>
+</tr>
+<table>
+<tr>
+<td>Home<br>Mad Libs<br>Tom Thumb</td>
+</tr>
+<tr>
+<td>Mad Libs
+<table>
+<fieldset> 
+
+            <label for="PName">Person Name:</label>
+			<input name="a" id="PName" type="text" placeholder="superman"><br>
+			
+           <label for="character">Character</label>
+			<input name="a" id="fName" type="text" placeholder="Batman"><br>
+			
+			<label for="fName">Adverb</label>
+			<input name="a" id="fName" type="text" placeholder="quickly"><br>
+			
+			<label for="fName">Adjective</label>
+			<input name="a" id="fName" type="text" placeholder="mean"></br>
+			<tr><style="text-align:center;">
+           <input type="button" value="tell story"></tr></br>
+		   </td>
+		   </tr>
+       
+</fieldset> 
+
+</table>
+</html>

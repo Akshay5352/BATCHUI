@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	</head>
+	<body>
+		
+		<form method="get" autocomplete="off">
+								
+<fieldset>
+			<h1 style="text-align:right;">Evergreen Valley College Survey</h1>
+			<h4 style="text-align:right;"><u>Email webmaster|Evergreen valley college website</u></t4><br>
+	        <h3 style ="text-align:left;">Personal information</h3><br>
+			<label for="Name">Name:</label>
+			<input type="text" name="Name" id="Name" >
+			
+			<br><br>
+						<label for="Email">Email:</label>
+						<input type="text" name="Email:" id="Email"><br>
+			
+			
+			<label for="Age">Age:</label>
+		<input type="radio" name="age" id="<18" value="Name">
+			<label for="<18"><18</label>
+		<input type="radio" name="age" id="18-25" value="Name">
+			<label for="18-25">18-25</label>
+		<input type="radio" name="age" id="26-40" value="Name">
+			<label for="26-40">26-40</label>
+		<input type="radio" name="age" id="41-65" value="Name">
+			<label for="41-65">41-65</label>
+		<input type="radio" name="age" id="65+" value="Name">
+			<label for="65+">65+</label><br><br>
+			<label><b>Academic Information</b></label><br>
+			<label><b>Goals:</b>check all that apply</label><br>
+			<input type="checkbox" name="goal" id="associate Degree" value="Name">
+			<label for="associate Degree">Associate Degree</label>
+		<input type="checkbox" name="goal" id="Transfer to CSU" value="Name">
+			<label for="Transfer to CSU">Transfer to CSU</label>
+		<input type="checkbox" name="goal" id="Transfer to UC" value="Name">
+			<label for="Transfer to UC">Transfer to UC</label>
+		<input type="checkbox" name="goal" id="Personal Enrichment" value="Name">
+			<label for="Personal Enrichment">Personal Enrichment</label><br>
+			
+			<tr><label><b>Field of study:</b>select all that apply,hold CTRL when clicking to select multiple items</label<br>
+									<select id="field of study" name="field of study" size="6"></tr>
+					<tr><option value="Accounting">Accounting</option>
+						<option value="Astronomy">Astronnomy</option>
+						<option value="Business">Business</option>
+						<option value="computer information system">computer information system</option>
+						<option value="health">health</option></tr><br><br>
+						<br>
+						
+                <tr>
+		       <input type="button" id="sent data" value="sent data">
+		       <input type="button" id="reset form" value="reset form"></tr>
+			</fieldset>
+			</body>
+			</html>
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			..

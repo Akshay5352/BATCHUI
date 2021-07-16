@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+	</head>
+	<body style="text-align:center;">
+	<table>
+				<h1 style="background-color:red;">contact us!</h1>
+				
+			<input type="text" placeholder="Name.....">
+							<br>
+							<br>
+			<input type="text" placeholder="Email.....">
+			<br>
+			<br>
+				<input type="text" placeholder="Subjet.....">
+				<br>
+				<br>
+				<input type="text" placeholder="Message.....">
+				<br>
+				<br>
+				<input type="button" value="SEND MESSAGE">
+				<br>
+				<br>
+				</table>
+				</body>
+				</html>

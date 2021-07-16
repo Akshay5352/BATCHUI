@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	</head>
+	<body style="background-color:lime;">
+
+		<form method="get">
+		<fieldset>
+		<legend>USER FROM</legend>
+		<ul type=" field circle">
+			<form>
+				
+			<li>First Name :<input type="text"></li>
+				
+				<br>
+
+			<li>Password:<input name="password" id="pword" type="password"></li>
+	<br>
+
+
+					<li>GENDER:<input type="radio" name="gender" id="male" value="Male">
+						<label for="male">Male</label>
+						
+						<input type="radio" name="gender" id="female" value="Femle">
+						<label for="female">Female</label></li>
+						
+					<br>
+						
+					<li>	ADRESS:<textarea></textarea></li>
+					<br>
+					<li>D.O.B:<input type="date" value="D.O.B"><li>
+					<br>
+						
+						
+						
+						<li>SELECT GAME:<input type="checkbox" name="game" id="Hockey" value="Hockey">
+						<label for="Hockey">Hockey</label>
+						<input type="checkbox" name="game" id="Football" value="Football">
+						<label for="Football">Football</label>
+						<input type="checkbox" name="game" id="Criket" value="Criket">
+						<label for="Criket">Criket</label>
+						<input type="checkbox" name="game" id="Valleyball" value="Valleyball">
+						<label for="Valleyball">Valleyball</label>
+						</li>
+			<br>
+						
+						<li>MARRIED STATUS:<input type="radio" name="married status" id="married" value="Married">
+						<label for="married">Married</label>
+						
+						<input type="radio" name="married status" id="Unmarried" value="Unmarried">
+						<label for="Unmarried">Unmarried</label></tr><br>
+						<tr><input type="button" value="submit"><input type="button" value="Reset"></tr>
+						<br>
+						
+			          <input type="checkbox" name="a"  value="I accept this agrement">
+						<label for="I accept this agrement">I accept this agrement</label>
+
+		
+                        </ul>
+						
+                      </form>
+                      </fieldset>
+					 
+                      </body>
+                      </html>
